@@ -1,0 +1,15 @@
+.posts{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+.card{
+    margin:0.2rem;
+}
+
+.pageactive{
+    background-color: blue;
+}

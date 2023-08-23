@@ -1,0 +1,14 @@
+.signform {
+    width: max-content;
+    display: inline-grid;
+    margin-top: 20px;
+}
+
+.btn{
+    margin: 10px;
+}
+
+#btn-home{
+    width: -webkit-fill-available;
+}
+
